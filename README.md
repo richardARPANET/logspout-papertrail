@@ -1,5 +1,7 @@
 # Logspout Usage
 
+The below instructions except replace with this container https://cloud.docker.com/repository/docker/richardarpanet/logspout-papertrail
+
 ### Papertrail (TLS)
 
 Use logspout to stream your docker logs to [Papertrail](http://help.papertrailapp.com/kb/configuration/configuring-centralized-logging-from-docker/#logspout).
